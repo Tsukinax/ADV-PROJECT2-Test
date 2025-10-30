@@ -1,0 +1,361 @@
+2025-10-26 23:27:39.535 [main] INFO  se233.contra.Main - Contra Boss Fight - SE233 Term Project II
+2025-10-26 23:27:39.536 [main] INFO  se233.contra.Main - Starting application...
+2025-10-26 23:27:39.542 [JavaFX Application Thread] INFO  se233.contra.Main - Starting Contra Boss Fight...
+2025-10-26 23:27:39.564 [JavaFX Application Thread] INFO  s.contra.controller.GameController - GameController initialized
+2025-10-26 23:27:39.768 [JavaFX Application Thread] DEBUG se233.contra.Main - Input handling configured
+2025-10-26 23:27:39.805 [JavaFX Application Thread] INFO  se233.contra.Main - Game started successfully!
+2025-10-26 23:28:13.850 [JavaFX Application Thread] INFO  s.contra.controller.GameController - Starting new game...
+2025-10-26 23:28:13.852 [JavaFX Application Thread] INFO  se233.contra.model.Player - Player created at (100.0, 618.0) with Rifle
+2025-10-26 23:28:13.853 [JavaFX Application Thread] INFO  s.contra.controller.GameController - Spawning minion wave 1/2
+2025-10-26 23:28:13.853 [JavaFX Application Thread] DEBUG se233.contra.model.Soldier - Soldier spawned at (1330.0, 618.0)
+2025-10-26 23:28:13.853 [JavaFX Application Thread] INFO  s.contra.controller.GameController - Game started successfully
+2025-10-26 23:28:13.853 [JavaFX Application Thread] INFO  se233.contra.Main - Game started from menu
+2025-10-26 23:28:13.877 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (1253.5717667299964, 634.0) direction: Vector2D(-1.00, 0.00) player: false
+2025-10-26 23:28:15.752 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player jumped
+2025-10-26 23:28:15.886 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (1151.5341943340607, 634.0) direction: Vector2D(-1.00, 0.00) player: false
+2025-10-26 23:28:17.227 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player jumped
+2025-10-26 23:28:17.894 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (1050.122555194266, 634.0) direction: Vector2D(-1.00, 0.00) player: false
+2025-10-26 23:28:18.352 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Enter PRONE - Y: 632.0 (shifted down by 14.0)
+2025-10-26 23:28:18.626 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Exit PRONE - Y: 618.0 (shifted up by 14.0)
+2025-10-26 23:28:18.695 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player jumped
+2025-10-26 23:28:19.810 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Enter PRONE - Y: 632.0 (shifted down by 14.0)
+2025-10-26 23:28:19.894 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (949.8153783469687, 634.0) direction: Vector2D(-1.00, 0.00) player: false
+2025-10-26 23:28:19.927 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Exit PRONE - Y: 618.0 (shifted up by 14.0)
+2025-10-26 23:28:20.319 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Enter PRONE - Y: 632.0 (shifted down by 14.0)
+2025-10-26 23:28:20.502 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Exit PRONE - Y: 618.0 (shifted up by 14.0)
+2025-10-26 23:28:20.536 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player jumped
+2025-10-26 23:28:21.727 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Enter PRONE - Y: 632.0 (shifted down by 14.0)
+2025-10-26 23:28:21.869 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (527.4133167999998, 641.0) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:28:21.870 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 1 bullet(s) with Rifle
+2025-10-26 23:28:21.894 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (849.5841172090122, 634.0) direction: Vector2D(-1.00, 0.00) player: false
+2025-10-26 23:28:22.044 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (527.4133167999998, 641.0) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:28:22.045 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 1 bullet(s) with Rifle
+2025-10-26 23:28:22.220 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (527.4133167999998, 641.0) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:28:22.221 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 1 bullet(s) with Rifle
+2025-10-26 23:28:22.227 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Exit PRONE - Y: 618.0 (shifted up by 14.0)
+2025-10-26 23:28:22.369 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player jumped
+2025-10-26 23:28:22.477 [JavaFX Application Thread] DEBUG se233.contra.model.Soldier - Soldier killed at (851.3831056313329, 618.0)
+2025-10-26 23:28:22.478 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (835.7544418000001, 641.0), playing explosion
+2025-10-26 23:28:22.478 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Score +100 = 100
+2025-10-26 23:28:22.478 [JavaFX Application Thread] INFO  s.c.controller.CollisionDetector - Soldier killed! Score: +100
+2025-10-26 23:28:24.936 [JavaFX Application Thread] INFO  s.contra.controller.GameController - Spawning minion wave 2/2
+2025-10-26 23:28:24.937 [JavaFX Application Thread] DEBUG se233.contra.model.Soldier - Soldier spawned at (1330.0, 618.0)
+2025-10-26 23:28:24.944 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (1322.0, 634.0) direction: Vector2D(-1.00, 0.00) player: false
+2025-10-26 23:28:25.227 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player jumped
+2025-10-26 23:28:26.302 [JavaFX Application Thread] INFO  se233.contra.model.Player - Player hit! Lives remaining: 2
+2025-10-26 23:28:26.303 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (638.6550205000002, 634.0), playing explosion
+2025-10-26 23:28:26.303 [JavaFX Application Thread] INFO  s.c.controller.CollisionDetector - Player hit by enemy bullet
+2025-10-26 23:28:26.427 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player jumped
+2025-10-26 23:28:26.953 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (1159.7003244882683, 634.0) direction: Vector2D(-1.00, 0.00) player: false
+2025-10-26 23:28:27.502 [JavaFX Application Thread] INFO  se233.contra.model.Player - Player hit! Lives remaining: 1
+2025-10-26 23:28:27.503 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (880.5250119882683, 634.0), playing explosion
+2025-10-26 23:28:27.503 [JavaFX Application Thread] INFO  s.c.controller.CollisionDetector - Player hit by enemy bullet
+2025-10-26 23:28:27.577 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player jumped
+2025-10-26 23:28:28.786 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player jumped
+2025-10-26 23:28:28.953 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (1065.4028257173852, 634.0) direction: Vector2D(-1.00, 0.00) player: false
+2025-10-26 23:28:30.018 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player jumped
+2025-10-26 23:28:30.171 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (918.4424419999998, 570.8860876948422) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:28:30.171 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 1 bullet(s) with Rifle
+2025-10-26 23:28:30.961 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (970.5269880381308, 634.0) direction: Vector2D(-1.00, 0.00) player: false
+2025-10-26 23:28:31.094 [JavaFX Application Thread] INFO  se233.contra.model.Player - Player hit! Lives remaining: 0
+2025-10-26 23:28:31.095 [JavaFX Application Thread] INFO  se233.contra.model.Player - Player died! Final score: 100
+2025-10-26 23:28:31.095 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (899.625967038131, 634.0), playing explosion
+2025-10-26 23:28:31.095 [JavaFX Application Thread] INFO  s.c.controller.CollisionDetector - Player hit by enemy bullet
+2025-10-26 23:28:31.095 [JavaFX Application Thread] INFO  s.contra.controller.GameController - Game Over! Final Score: 100
+2025-10-26 23:28:31.363 [JavaFX Application Thread] INFO  se233.contra.Main - Shutting down game...
+2025-10-26 23:28:31.363 [JavaFX Application Thread] INFO  se233.contra.Main - Game shutdown complete
+2025-10-26 23:28:43.232 [main] INFO  se233.contra.Main - Contra Boss Fight - SE233 Term Project II
+2025-10-26 23:28:43.232 [main] INFO  se233.contra.Main - Starting application...
+2025-10-26 23:28:43.237 [JavaFX Application Thread] INFO  se233.contra.Main - Starting Contra Boss Fight...
+2025-10-26 23:28:43.256 [JavaFX Application Thread] INFO  s.contra.controller.GameController - GameController initialized
+2025-10-26 23:28:43.441 [JavaFX Application Thread] DEBUG se233.contra.Main - Input handling configured
+2025-10-26 23:28:43.476 [JavaFX Application Thread] INFO  se233.contra.Main - Game started successfully!
+2025-10-26 23:28:44.939 [JavaFX Application Thread] INFO  s.contra.controller.GameController - Starting new game...
+2025-10-26 23:28:44.944 [JavaFX Application Thread] INFO  se233.contra.model.Player - Player created at (100.0, 618.0) with Rifle
+2025-10-26 23:28:44.945 [JavaFX Application Thread] INFO  s.contra.controller.GameController - Spawning minion wave 1/2
+2025-10-26 23:28:44.946 [JavaFX Application Thread] DEBUG se233.contra.model.Soldier - Soldier spawned at (1330.0, 618.0)
+2025-10-26 23:28:44.946 [JavaFX Application Thread] INFO  s.contra.controller.GameController - Game started successfully
+2025-10-26 23:28:44.946 [JavaFX Application Thread] INFO  se233.contra.Main - Game started from menu
+2025-10-26 23:28:46.290 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (1178.0120355652075, 634.0) direction: Vector2D(-1.00, 0.00) player: false
+2025-10-26 23:28:47.373 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player jumped
+2025-10-26 23:28:48.298 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (1092.1614209181116, 634.0) direction: Vector2D(-1.00, 0.00) player: false
+2025-10-26 23:28:48.548 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Enter PRONE - Y: 632.0 (shifted down by 14.0)
+2025-10-26 23:28:48.865 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Exit PRONE - Y: 618.0 (shifted up by 14.0)
+2025-10-26 23:28:48.978 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player jumped
+2025-10-26 23:28:49.931 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (608.8450667999999, 568.4770514692851) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:28:49.932 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 1 bullet(s) with Rifle
+2025-10-26 23:28:50.165 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (608.8450667999999, 629.2) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:28:50.165 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 1 bullet(s) with Rifle
+2025-10-26 23:28:50.299 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (1006.2998302606142, 634.0) direction: Vector2D(-1.00, 0.00) player: false
+2025-10-26 23:28:50.557 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (608.8450667999999, 629.2) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:28:50.557 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 1 bullet(s) with Rifle
+2025-10-26 23:28:50.723 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player jumped
+2025-10-26 23:28:50.914 [JavaFX Application Thread] DEBUG se233.contra.model.Soldier - Soldier killed at (1007.1838128545868, 618.0)
+2025-10-26 23:28:50.915 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (987.5485667999998, 629.2), playing explosion
+2025-10-26 23:28:50.915 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Score +100 = 100
+2025-10-26 23:28:50.915 [JavaFX Application Thread] INFO  s.c.controller.CollisionDetector - Soldier killed! Score: +100
+2025-10-26 23:28:52.390 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Enter PRONE - Y: 632.0 (shifted down by 14.0)
+2025-10-26 23:28:52.740 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Exit PRONE - Y: 618.0 (shifted up by 14.0)
+2025-10-26 23:28:53.373 [JavaFX Application Thread] INFO  s.contra.controller.GameController - Spawning minion wave 2/2
+2025-10-26 23:28:53.374 [JavaFX Application Thread] DEBUG se233.contra.model.Soldier - Soldier spawned at (1330.0, 618.0)
+2025-10-26 23:28:53.424 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player jumped
+2025-10-26 23:28:54.140 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (1204.4547917443435, 634.0) direction: Vector2D(-1.00, 0.00) player: false
+2025-10-26 23:28:55.122 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player jumped
+2025-10-26 23:28:55.808 [JavaFX Application Thread] INFO  se233.contra.model.Player - Weapon switched to: SpreadGun
+2025-10-26 23:28:56.131 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (521.9716748, 585.5009753856427) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:28:56.132 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (521.9716748, 585.5009753856427) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:28:56.132 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (521.9716748, 585.5009753856427) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:28:56.132 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:28:56.148 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (1104.2833485958347, 634.0) direction: Vector2D(-1.00, 0.00) player: false
+2025-10-26 23:28:56.315 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (521.9716748, 629.2) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:28:56.316 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (521.9716748, 629.2) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:28:56.316 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (521.9716748, 629.2) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:28:56.316 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:28:56.481 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (521.9716748, 629.2) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:28:56.482 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (521.9716748, 629.2) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:28:56.482 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (521.9716748, 629.2) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:28:56.482 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:28:56.648 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (521.9716748, 629.2) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:28:56.650 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (521.9716748, 629.2) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:28:56.650 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (521.9716748, 629.2) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:28:56.651 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:28:57.057 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player jumped
+2025-10-26 23:28:57.356 [JavaFX Application Thread] DEBUG se233.contra.model.Soldier - Soldier killed at (1064.3918296030001, 618.0)
+2025-10-26 23:28:57.357 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (1046.9618413000003, 629.2), playing explosion
+2025-10-26 23:28:57.357 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Score +100 = 200
+2025-10-26 23:28:57.357 [JavaFX Application Thread] INFO  s.c.controller.CollisionDetector - Soldier killed! Score: +100
+2025-10-26 23:28:58.852 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Enter PRONE - Y: 632.0 (shifted down by 14.0)
+2025-10-26 23:28:59.819 [JavaFX Application Thread] INFO  s.contra.controller.GameController - Spawning Boss 1!
+2025-10-26 23:28:59.823 [JavaFX Application Thread] INFO  se233.contra.model.Boss - Boss1 created with 20 HP at (750.0, 450.0)
+2025-10-26 23:28:59.826 [JavaFX Application Thread] INFO  se233.contra.model.Boss1 - Boss 1 (Defense Wall) initialized at (750.0, 450.0)
+2025-10-26 23:28:59.835 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Exit PRONE - Y: 618.0 (shifted up by 14.0)
+2025-10-26 23:28:59.977 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:28:59.978 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:28:59.978 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:28:59.979 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:00.169 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:00.169 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:00.170 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:00.170 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:00.320 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:00.321 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:00.321 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:00.321 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:00.494 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:00.494 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:00.495 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:00.495 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:00.610 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (753.7287501000001, 629.2), playing explosion
+2025-10-26 23:29:00.652 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:00.653 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:00.653 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:00.653 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:00.802 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (753.5037496, 629.2), playing explosion
+2025-10-26 23:29:00.810 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:00.811 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:00.811 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:00.811 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:00.952 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (753.5035625999997, 629.2), playing explosion
+2025-10-26 23:29:00.961 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:00.962 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:00.962 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:00.962 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:01.127 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (753.4928120999997, 629.2), playing explosion
+2025-10-26 23:29:01.261 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:01.262 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:01.262 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:01.262 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:01.285 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (753.5122916, 629.2), playing explosion
+2025-10-26 23:29:01.444 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (753.4989376000001, 629.2), playing explosion
+2025-10-26 23:29:01.577 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:01.578 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:01.579 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:01.579 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:01.594 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (753.5150831, 629.2), playing explosion
+2025-10-26 23:29:01.744 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:01.744 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:01.744 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:01.744 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:01.827 [JavaFX Application Thread] DEBUG se233.contra.model.Boss1 - Boss 1 state: IDLE -> ATTACKING
+2025-10-26 23:29:01.894 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (753.4571041, 629.2), playing explosion
+2025-10-26 23:29:01.902 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:01.902 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:01.903 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:01.903 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:02.077 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:02.077 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:02.077 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:02.078 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:02.210 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (753.4047501000002, 629.2), playing explosion
+2025-10-26 23:29:02.235 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:02.236 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:02.236 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:02.236 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:02.377 [JavaFX Application Thread] INFO  se233.contra.model.Boss1 - Left cannon destroyed!
+2025-10-26 23:29:02.377 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (753.4804376, 629.2), playing explosion
+2025-10-26 23:29:02.377 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Score +500 = 700
+2025-10-26 23:29:02.378 [JavaFX Application Thread] INFO  s.c.controller.CollisionDetector - Left cannon destroyed! Score: +500
+2025-10-26 23:29:02.410 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:02.410 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:02.410 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:02.410 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:02.594 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:02.594 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:02.595 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:02.595 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:02.627 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (914.0, 638.0) direction: Vector2D(-1.00, 0.00) player: false
+2025-10-26 23:29:02.769 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (870.1702086000005, 629.2), playing explosion
+2025-10-26 23:29:02.944 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (870.1708541000004, 629.2), playing explosion
+2025-10-26 23:29:02.994 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player jumped
+2025-10-26 23:29:03.102 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (870.0637706000005, 629.2), playing explosion
+2025-10-26 23:29:03.277 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (870.0980416000006, 629.2), playing explosion
+2025-10-26 23:29:03.428 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (914.0, 638.0) direction: Vector2D(-1.00, 0.00) player: false
+2025-10-26 23:29:03.460 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (870.1357081, 629.2), playing explosion
+2025-10-26 23:29:03.977 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 577.1154732156716) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:03.978 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 577.1154732156716) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:03.979 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 577.1154732156716) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:03.979 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:04.144 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:04.145 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:04.145 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:04.145 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:04.235 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (914.0, 638.0) direction: Vector2D(-1.00, 0.00) player: false
+2025-10-26 23:29:04.269 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player jumped
+2025-10-26 23:29:04.560 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 532.9452091752307) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:04.560 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 532.9452091752307) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:04.560 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 532.9452091752307) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:04.560 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:04.752 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 506.809422680233) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:04.752 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 506.809422680233) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:04.753 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 506.809422680233) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:04.753 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:04.944 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 509.9520451038548) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:04.945 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 509.9520451038548) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:04.945 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 509.9520451038548) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:04.946 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:05.010 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (870.5954165999999, 629.2), playing explosion
+2025-10-26 23:29:05.044 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (914.0, 638.0) direction: Vector2D(-1.00, 0.00) player: false
+2025-10-26 23:29:05.503 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player jumped
+2025-10-26 23:29:05.635 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 576.7385085359182) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:05.636 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 576.7385085359182) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:05.636 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 576.7385085359182) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:05.637 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:05.652 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (871.814749634258, 624.4793662789716), playing explosion
+2025-10-26 23:29:05.802 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 531.2091358276003) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:05.802 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 531.2091358276003) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:05.802 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 531.2091358276003) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:05.802 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:05.844 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (871.3563777437623, 627.4991683247019), playing explosion
+2025-10-26 23:29:05.852 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (914.0, 638.0) direction: Vector2D(-1.00, 0.00) player: false
+2025-10-26 23:29:05.977 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 507.2927148366696) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:05.977 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 507.2927148366696) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:05.977 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 507.2927148366696) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:05.978 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:06.152 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 507.86990100781793) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:06.152 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 507.86990100781793) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:06.153 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 507.86990100781793) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:06.153 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:06.336 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 534.7473859414159) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:06.336 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 534.7473859414159) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:06.336 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 534.7473859414159) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:06.337 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:06.652 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (914.0, 638.0) direction: Vector2D(-1.00, 0.00) player: false
+2025-10-26 23:29:06.769 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player jumped
+2025-10-26 23:29:06.827 [JavaFX Application Thread] DEBUG se233.contra.model.Boss1 - Boss 1 state: ATTACKING -> DOOR_OPENING
+2025-10-26 23:29:06.877 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (871.3645475444011, 624.8420271490003), playing explosion
+2025-10-26 23:29:07.052 [JavaFX Application Thread] INFO  se233.contra.model.Boss1 - Right cannon destroyed!
+2025-10-26 23:29:07.052 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (871.3543855217458, 625.4164904143845), playing explosion
+2025-10-26 23:29:07.052 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Score +500 = 1200
+2025-10-26 23:29:07.052 [JavaFX Application Thread] INFO  s.c.controller.CollisionDetector - Right cannon destroyed! Score: +500
+2025-10-26 23:29:07.110 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 523.2874032699831) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:07.111 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 523.2874032699831) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:07.111 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 523.2874032699831) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:07.111 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:07.302 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 504.75685460602097) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:07.303 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 504.75685460602097) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:07.303 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 504.75685460602097) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:07.304 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:07.502 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 516.7528147947148) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:07.503 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 516.7528147947148) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:07.503 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 516.7528147947148) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:07.503 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:07.719 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 565.899551440433) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:07.719 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 565.899551440433) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:07.720 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 565.899551440433) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:07.720 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:07.835 [JavaFX Application Thread] DEBUG se233.contra.model.Boss1 - Boss 1 state: DOOR_OPENING -> VULNERABLE
+2025-10-26 23:29:07.835 [JavaFX Application Thread] INFO  se233.contra.model.Boss - Boss1 took 1 damage. HP: 19/20
+2025-10-26 23:29:07.835 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (798.8744376000004, 523.2874032699831), playing explosion
+2025-10-26 23:29:07.844 [JavaFX Application Thread] INFO  se233.contra.model.Boss - Boss1 took 1 damage. HP: 18/20
+2025-10-26 23:29:07.844 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (790.9053613135293, 619.2777416080866), playing explosion
+2025-10-26 23:29:07.895 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:07.896 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:07.896 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:07.896 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:08.010 [JavaFX Application Thread] INFO  se233.contra.model.Boss - Boss1 took 1 damage. HP: 17/20
+2025-10-26 23:29:08.011 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (791.0105416000005, 504.75685460602097), playing explosion
+2025-10-26 23:29:08.036 [JavaFX Application Thread] INFO  se233.contra.model.Boss - Boss1 took 1 damage. HP: 16/20
+2025-10-26 23:29:08.036 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (790.9234927072147, 600.7520512364199), playing explosion
+2025-10-26 23:29:08.085 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:08.086 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:08.086 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:08.086 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:08.210 [JavaFX Application Thread] INFO  se233.contra.model.Boss - Boss1 took 1 damage. HP: 15/20
+2025-10-26 23:29:08.211 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (791.0069996000005, 516.7528147947148), playing explosion
+2025-10-26 23:29:08.235 [JavaFX Application Thread] INFO  se233.contra.model.Boss - Boss1 took 1 damage. HP: 14/20
+2025-10-26 23:29:08.236 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (790.8442462205743, 612.7267773930159), playing explosion
+2025-10-26 23:29:08.260 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:08.261 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:08.261 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:08.261 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:08.427 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:08.428 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:08.428 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:08.429 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:08.429 [JavaFX Application Thread] INFO  se233.contra.model.Boss - Boss1 took 1 damage. HP: 13/20
+2025-10-26 23:29:08.429 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (790.9503541000001, 565.899551440433), playing explosion
+2025-10-26 23:29:08.452 [JavaFX Application Thread] INFO  se233.contra.model.Boss - Boss1 took 1 damage. HP: 12/20
+2025-10-26 23:29:08.452 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (790.7948033753046, 469.93883701259375), playing explosion
+2025-10-26 23:29:08.602 [JavaFX Application Thread] INFO  se233.contra.model.Boss - Boss1 took 1 damage. HP: 11/20
+2025-10-26 23:29:08.602 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (790.9887706000004, 629.2), playing explosion
+2025-10-26 23:29:08.627 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:08.628 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:08.628 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:08.629 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:08.629 [JavaFX Application Thread] INFO  se233.contra.model.Boss - Boss1 took 1 damage. HP: 10/20
+2025-10-26 23:29:08.629 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (790.853241404832, 533.2236271493416), playing explosion
+2025-10-26 23:29:08.786 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:08.786 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:08.787 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:08.787 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:08.794 [JavaFX Application Thread] INFO  se233.contra.model.Boss - Boss1 took 1 damage. HP: 9/20
+2025-10-26 23:29:08.794 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (790.9600831, 629.2), playing explosion
+2025-10-26 23:29:08.819 [JavaFX Application Thread] INFO  se233.contra.model.Boss - Boss1 took 1 damage. HP: 8/20
+2025-10-26 23:29:08.819 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (790.853462601846, 533.2235678797803), playing explosion
+2025-10-26 23:29:08.968 [JavaFX Application Thread] INFO  se233.contra.model.Boss - Boss1 took 1 damage. HP: 7/20
+2025-10-26 23:29:08.968 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (790.6058541000001, 629.2), playing explosion
+2025-10-26 23:29:08.994 [JavaFX Application Thread] INFO  se233.contra.model.Boss - Boss1 took 1 damage. HP: 6/20
+2025-10-26 23:29:08.994 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (790.9084199176588, 533.20884211139), playing explosion
+2025-10-26 23:29:09.119 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(1.00, 0.00) player: true
+2025-10-26 23:29:09.119 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, -0.26) player: true
+2025-10-26 23:29:09.119 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet created at (432.66454160000006, 629.2) direction: Vector2D(0.97, 0.26) player: true
+2025-10-26 23:29:09.119 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player shot 3 bullet(s) with SpreadGun
+2025-10-26 23:29:09.135 [JavaFX Application Thread] INFO  se233.contra.model.Boss - Boss1 took 1 damage. HP: 5/20
+2025-10-26 23:29:09.135 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (790.9780830999997, 629.2), playing explosion
+2025-10-26 23:29:09.160 [JavaFX Application Thread] INFO  se233.contra.model.Boss - Boss1 took 1 damage. HP: 4/20
+2025-10-26 23:29:09.160 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (790.8373239131403, 533.2278922283859), playing explosion
+2025-10-26 23:29:09.335 [JavaFX Application Thread] INFO  se233.contra.model.Boss - Boss1 took 1 damage. HP: 3/20
+2025-10-26 23:29:09.336 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (790.9145000999998, 629.2), playing explosion
+2025-10-26 23:29:09.360 [JavaFX Application Thread] INFO  se233.contra.model.Boss - Boss1 took 1 damage. HP: 2/20
+2025-10-26 23:29:09.360 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (790.7773157711824, 533.2439713615624), playing explosion
+2025-10-26 23:29:09.477 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Player jumped
+2025-10-26 23:29:09.494 [JavaFX Application Thread] INFO  se233.contra.model.Boss - Boss1 took 1 damage. HP: 1/20
+2025-10-26 23:29:09.494 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (791.3229166, 629.2), playing explosion
+2025-10-26 23:29:09.519 [JavaFX Application Thread] INFO  se233.contra.model.Boss - Boss1 took 1 damage. HP: 0/20
+2025-10-26 23:29:09.519 [JavaFX Application Thread] INFO  se233.contra.model.Boss - Boss1 defeated!
+2025-10-26 23:29:09.519 [JavaFX Application Thread] DEBUG se233.contra.model.Bullet - Bullet hit target at (791.1757200886043, 533.137219246448), playing explosion
+2025-10-26 23:29:09.519 [JavaFX Application Thread] DEBUG se233.contra.model.Player - Score +10000 = 11200
+2025-10-26 23:29:09.520 [JavaFX Application Thread] INFO  s.c.controller.CollisionDetector - Boss 1 defeated! Score: +10000
+2025-10-26 23:29:09.520 [JavaFX Application Thread] INFO  s.contra.controller.GameController - Victory! Final Score: 11200
+2025-10-26 23:29:15.009 [JavaFX Application Thread] INFO  se233.contra.Main - Shutting down game...
+2025-10-26 23:29:15.009 [JavaFX Application Thread] INFO  se233.contra.Main - Game shutdown complete
