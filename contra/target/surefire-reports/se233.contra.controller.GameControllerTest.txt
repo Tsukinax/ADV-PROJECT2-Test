@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: se233.contra.controller.GameControllerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.209 s -- in se233.contra.controller.GameControllerTest
